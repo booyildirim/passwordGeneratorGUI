@@ -1,4 +1,4 @@
-// Main Algorithms run in this class
+// UI components and system tasks run in this class
 
 import java.awt.Color;
 import java.awt.EventQueue;
